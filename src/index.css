@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Fauna+One&family=Noto+Sans+Arabic:wght@700;900&family=Raleway&display=swap');
+*{
+  box-sizing: border-box;
+   
+}
+body{
+  margin: 0;
+  background-color: #526D82;
+  padding: 0;
+ 
+}
+.app{
+  margin: auto ;
+  background-color: #526D82;
+}
